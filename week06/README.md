@@ -72,3 +72,20 @@
 | 3-18 | float 속성 – 박스 배치 left / right | [ch06_18_float_box.html](ch06_18_float_box.html) |
 | 3-19 | 그림자 text-shadow / box-shadow | [ch06_19_shadow.html](ch06_19_shadow.html) |
 | 3-20 | 그레이디언트 linear-gradient | [ch06_20_gradient.html](ch06_20_gradient.html) |
+
+## 강의자료 코드 그대로 실습한 파일
+
+강의자료 슬라이드의 코드와 똑같이 작성한 파일입니다(파일명도 강의자료와 같음).
+
+| 강의자료 | 파일 |
+|---|---|
+| 코드 3-13 행·열 병합 표 | [table_span.html](table_span.html) |
+| 코드 3-14 이미지 삽입 | [image_basic.html](image_basic.html) |
+| 코드 5-1 선택자 기본 | [selector_basic.html](selector_basic.html) |
+| 코드 5-2 전체 선택자 | [selector_wildcard.html](selector_wildcard.html) |
+| 코드 5-3 태그 선택자 | [selector_tag.html](selector_tag.html) |
+| 코드 6-1 width·height | [box_widthHeight.html](box_widthHeight.html) |
+| 코드 6-2 margin·padding | [box_marginPadding.html](box_marginPadding.html) |
+| 코드 6-5 기본 테두리 | [border_basic.html](border_basic.html) |
+| 코드 6-9 display: block | [display_block.html](display_block.html) |
+| 코드 6-34 position: absolute | [position_absolute.html](position_absolute.html) |
