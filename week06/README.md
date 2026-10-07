@@ -89,3 +89,5 @@
 | 코드 6-5 기본 테두리 | [border_basic.html](border_basic.html) |
 | 코드 6-9 display: block | [display_block.html](display_block.html) |
 | 코드 6-34 position: absolute | [position_absolute.html](position_absolute.html) |
+| 코드 6-35 left · top | [position_absoluteLeftTop.html](position_absoluteLeftTop.html) |
+| 코드 6-36 z-index | [position_zIndex.html](position_zIndex.html) |
