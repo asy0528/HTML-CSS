@@ -15,6 +15,7 @@
 | 1-4 | 특수 문자 `&nbsp;` (공백 표시) | [ch03_04_nbsp.html](ch03_04_nbsp.html) |
 | 1-5 | 앵커 태그 – 외부 웹 페이지 연결 | [ch03_05_anchor.html](ch03_05_anchor.html) |
 | 1-6 | 앵커 태그 – 웹 페이지 내부 이동 (id) | [ch03_06_anchor_id.html](ch03_06_anchor_id.html) |
+| 1-6-2 | 앵커 태그 – 빈 링크 href="#" (강의자료 16쪽) | [ch03_06_empty_link.html](ch03_06_empty_link.html) |
 | 1-7 | 글자 모양 태그 | [ch03_07_text_style.html](ch03_07_text_style.html) |
 | 1-8 | 순서 없는 목록 ul / 순서 있는 목록 ol | [ch03_08_list.html](ch03_08_list.html) |
 | 1-9 | 중첩 목록 | [ch03_09_nested_list.html](ch03_09_nested_list.html) |
